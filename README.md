@@ -8,4 +8,5 @@
 
 📝 Outside of code, I write **blogs & stories** that connect with people — turning everyday moments into reflections that inspire.  
 ✨ For me, technology is not just about logic, it’s about **connecting ideas with people**.  
+
 ---
